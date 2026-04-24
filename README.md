@@ -34,12 +34,10 @@ This project involves:
 Everything is for Free!
 
 * [Datasets](https://github.com/abdo-elm/sql-data-warehouse-project/tree/main/datasets): Access to the project dataset (csv files).
-* [SQL Server Express](your-link-here): Lightweight server for hosting your SQL database.
-* [SQL Server Management Studio (SSMS)](your-link-here): GUI for managing and interacting with databases.
-* [Git Repository](your-link-here): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-* [DrawIO](your-link-here): Design data architecture, models, flows, and diagrams.
-* [Notion](your-link-here): Get the Project Template from Notion.
-* [Notion Project Steps](your-link-here): Access to All Project Phases and Tasks.
+* [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Lightweight server for hosting your SQL database.
+* [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/install/install?view=sql-server-ver16): GUI for managing and interacting with databases.
+* [Git Repository](https://github.com/): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+* [DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
 
 # 🚀 Project Requirements
 
