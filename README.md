@@ -92,4 +92,4 @@ data-warehouse-project/
 ```
 
 # 🛡️ License
-This project is licensed under the [MIT License] (https://github.com/abdo-elm/sql-data-warehouse-project/tree/main?tab=MIT-1-ov-file). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](https://github.com/abdo-elm/sql-data-warehouse-project/tree/main?tab=MIT-1-ov-file). You are free to use, modify, and share this project with proper attribution.
