@@ -29,14 +29,17 @@ This project involves:
  - Data Modeling
  - Data Analytics
 
+## 🛠️ Important Links & Tools:
 
-# 🛠️ Important Links & Tools:
+Everything is for Free!
 
-- [Datasets]: Access to the project dataset (csv files).
-- SQL Server Express: Lightweight server for hosting your SQL database.
-- SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
-- Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-- DrawIO: Design data architecture, models, flows, and diagrams.
+* [Datasets](your-link-here): Access to the project dataset (csv files).
+* [SQL Server Express](your-link-here): Lightweight server for hosting your SQL database.
+* [SQL Server Management Studio (SSMS)](your-link-here): GUI for managing and interacting with databases.
+* [Git Repository](your-link-here): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+* [DrawIO](your-link-here): Design data architecture, models, flows, and diagrams.
+* [Notion](your-link-here): Get the Project Template from Notion.
+* [Notion Project Steps](your-link-here): Access to All Project Phases and Tasks.
 
 # 🚀 Project Requirements
 
@@ -64,7 +67,7 @@ Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 # 📂 Repository Structure
-
+```
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -88,7 +91,7 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
-
+```
 
 # 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
