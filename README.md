@@ -33,7 +33,7 @@ This project involves:
 
 Everything is for Free!
 
-* [Datasets](your-link-here): Access to the project dataset (csv files).
+* [Datasets]([datasets](https://github.com/abdo-elm/sql-data-warehouse-project/tree/main/datasets)): Access to the project dataset (csv files).
 * [SQL Server Express](your-link-here): Lightweight server for hosting your SQL database.
 * [SQL Server Management Studio (SSMS)](your-link-here): GUI for managing and interacting with databases.
 * [Git Repository](your-link-here): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
